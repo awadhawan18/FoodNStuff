@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food N Stuff</string>
+    <string name="tab_text_1">Soups</string>
+    <string name="tab_text_2">Rice</string>
+    <string name="tab_text_3">Breads</string>
+    <string name="tab_text_4">Curry</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="card_heading">Chicken Soup</string>
+    <string name="card_description">Chicken soup is awesome Chicken soup is awesome Chicken soup is awesome</string>
+</resources>
